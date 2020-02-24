@@ -9,5 +9,5 @@ Redesign with 8k ROM +56K RAM to take Firth of Forth
 
 https://easyeda.com/editor#id=f818b39834d74412ac7d368bd106747b|efe834a69422493a853d73672d879d46
 
-16 Segment display
+
 

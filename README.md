@@ -1,3 +1,7 @@
+# Main Repo
+https://github.com/jhlagado/TEC-1
+
+
 ## TEC-1D Standard
 schematic and PCB
 https://easyeda.com/editor#id=f83d6e4345f549a7bd7ee7b231e8b4e3
@@ -21,3 +25,8 @@ https://github.com/SteveJustin1963/tec-KB
 https://github.com/SteveJustin1963/tec-PS2
 
 
+## References
+
+https://rc2014.co.uk/modules/other-modules/8k-rom/
+
+https://github.com/jhlagado/firth/raw/master/searle.gif

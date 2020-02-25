@@ -1,4 +1,4 @@
-# TEC-1D Standard
+## TEC-1D Standard
 schematic and PCB
 https://easyeda.com/editor#id=f83d6e4345f549a7bd7ee7b231e8b4e3
 
@@ -16,5 +16,8 @@ https://github.com/SteveJustin1963/tec-OSC-VAR
 
 ## ## TEC-1D mod for keyboard expansions
 https://github.com/SteveJustin1963/tec-KB
+
+## TEC-1D PS2 keyboard interface
+https://github.com/SteveJustin1963/tec-PS2
 
 

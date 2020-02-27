@@ -18,7 +18,7 @@ https://easyeda.com/editor#id=5fdd1f4658fb43529c655cc31d45da7a
 ## TEC-1D mod for variable Mhz Osc
 https://github.com/SteveJustin1963/tec-OSC-VAR
 
-## ## TEC-1D mod for keyboard expansions
+## TEC-1D mod for keyboard expansions
 https://github.com/SteveJustin1963/tec-KB
 
 ## TEC-1D PS2 keyboard interface

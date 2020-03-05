@@ -26,7 +26,8 @@ https://github.com/SteveJustin1963/tec-OSC-VAR
 https://github.com/SteveJustin1963/tec-KB
 
 ## TEC-1D PS2 keyboard interface
-https://github.com/SteveJustin1963/tec-PS2
+TEC-1 PS2 keyboard interface
+See BG files for similar
 
 
 ## References
